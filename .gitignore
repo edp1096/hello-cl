@@ -1,0 +1,7 @@
+.vscode/
+bin/
+openclblast/
+*.zip
+*.def
+*.a
+*.dll
